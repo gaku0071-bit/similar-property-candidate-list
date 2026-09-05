@@ -1,0 +1,2 @@
+# similar-property-candidate-list
+営業支援でリアプロの類似物件候補を作成するChrome拡張機能の更新配布用
