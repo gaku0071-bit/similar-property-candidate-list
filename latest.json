@@ -1,0 +1,8 @@
+{
+  "version": "0.10.3",
+  "releasedAt": "2026-09-05",
+  "message": "GitHubから最新版ZIPをダウンロードできる更新方式へ変更し、候補リスト作成ボタンを左上へ移動しました。",
+  "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
+  "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
+  "sha256": "B85129AD41D41E3505D28CBFEF0950FC2220D58B8E1439925FADEA715C324C2D"
+}
