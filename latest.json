@@ -1,8 +1,8 @@
 {
-  "version": "0.10.3",
-  "releasedAt": "2026-09-05",
-  "message": "GitHubから最新版ZIPをダウンロードできる更新方式へ変更し、候補リスト作成ボタンを左上へ移動しました。",
+  "version": "0.13.2",
+  "releasedAt": "2026-09-10",
+  "message": "リアプロの検索条件リセット完了後に条件を設定するよう修正しました。検索した全ページ・全室を確認し、得点順の上位5件を表示します。",
   "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
   "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
-  "sha256": "B85129AD41D41E3505D28CBFEF0950FC2220D58B8E1439925FADEA715C324C2D"
+  "sha256": "634F41ABC1A41B506E5A0F45DD3B1F3DCC8B8C627A7EB73910D2E73EBE6F1521"
 }
