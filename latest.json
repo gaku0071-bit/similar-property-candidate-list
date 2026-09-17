@@ -1,8 +1,8 @@
 {
-  "version": "0.13.2",
-  "releasedAt": "2026-09-10",
-  "message": "リアプロの検索条件リセット完了後に条件を設定するよう修正しました。検索した全ページ・全室を確認し、得点順の上位5件を表示します。",
+  "version": "0.13.3",
+  "releasedAt": "2026-09-17",
+  "message": "営業支援とリアプロ物件詳細の両方に『ペット可のみ』を追加しました。ON時はリアプロのペット相談条件で絞り込み、各部屋の詳細でもペット可を再確認します。",
   "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
   "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
-  "sha256": "634F41ABC1A41B506E5A0F45DD3B1F3DCC8B8C627A7EB73910D2E73EBE6F1521"
+  "sha256": "069006066B0DA70548DC52A33C0BD4F0B23DC62DADF24469CFF83259979287E6"
 }
