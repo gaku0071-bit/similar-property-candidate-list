@@ -1,8 +1,8 @@
 {
-  "version": "0.13.3",
-  "releasedAt": "2026-09-17",
-  "message": "営業支援とリアプロ物件詳細の両方に『ペット可のみ』を追加しました。ON時はリアプロのペット相談条件で絞り込み、各部屋の詳細でもペット可を再確認します。",
+  "version": "0.13.5",
+  "releasedAt": "2026-09-18",
+  "message": "別のお客様で候補リストを開いた際に前のお客様の条件・候補・進捗を消去し、問合せ物件の初期表示を高速化しました。沿線名へ『交通』見出しが混ざる問題も修正しました。",
   "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
   "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
-  "sha256": "069006066B0DA70548DC52A33C0BD4F0B23DC62DADF24469CFF83259979287E6"
+  "sha256": "28568D87D15D81CF75C66E1AB4720CECDA438E920E0C3A02DF216F9E20AC0E0A"
 }
