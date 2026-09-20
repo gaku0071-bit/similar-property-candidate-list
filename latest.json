@@ -1,8 +1,8 @@
 {
-  "version": "0.13.5",
-  "releasedAt": "2026-09-18",
-  "message": "別のお客様で候補リストを開いた際に前のお客様の条件・候補・進捗を消去し、問合せ物件の初期表示を高速化しました。沿線名へ『交通』見出しが混ざる問題も修正しました。",
+  "version": "0.13.10",
+  "releasedAt": "2026-09-20",
+  "message": "問合せ物件のリアプロ詳細リンクを先に表示し、該当号室がない場合は同じ建物の募集中の別部屋を表示します。営業支援・リアプロの一覧画面から不要なボタンを削除しました。",
   "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
   "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
-  "sha256": "28568D87D15D81CF75C66E1AB4720CECDA438E920E0C3A02DF216F9E20AC0E0A"
+  "sha256": "521C4E706D6B8BC2D92DCE92F27AA98584B800B808980F08D84FC93F8474824C"
 }
