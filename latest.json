@@ -1,8 +1,8 @@
 {
-  "version": "0.13.11",
+  "version": "0.13.12",
   "releasedAt": "2026-09-24",
-  "message": "営業支援の現行URLに対応し、顧客の活動・メッセージ画面で候補リスト作成ボタンが表示されるよう修正しました。一覧画面では引き続き非表示です。",
+  "message": "問合せ物件一覧で対象物件を選択し、物件名・部屋番号・顧客向けURLをメール貼り付け用にまとめてコピーできるようにしました。",
   "downloadUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list/releases/latest/download/similar-property-candidate-list.zip",
   "guideUrl": "https://github.com/gaku0071-bit/similar-property-candidate-list#更新方法",
-  "sha256": "85723FA4B06BBBCB34B9EF4DBAF29D4BAC431053C1C887B0E618A757E7447276"
+  "sha256": "5B0951375D216795547A9290F17E151561BF71A2DF7A6A9A0B79670F5A7419D4"
 }
